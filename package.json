@@ -5,7 +5,6 @@
   "main": "dist/lib/index.js",
   "module": "dist/es/index.js",
   "types": "dist/lib/index.d.ts",
-  "author": "BryanHu",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -70,5 +69,14 @@
   "dependencies": {
     "angular-expressions": "^1.1.8",
     "dayjs": "^1.11.7"
+  },
+  "repository": "https://github.com/hjfruit/react-any-render",
+  "author": "Bryan Hu <hushao599@gmail.com> (https://github.com/BryanHoo)",
+  "bugs": {
+    "url": "https://github.com/hjfruit/react-any-render/issues"
+  },
+  "homepage": "https://github.com/hjfruit/react-any-render#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
